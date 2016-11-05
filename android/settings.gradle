@@ -1,0 +1,3 @@
+rootProject.name = 'DeepThoughts'
+
+include ':app'
